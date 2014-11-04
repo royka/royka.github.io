@@ -1,6 +1,6 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>The Boron Rage</title><description>When code goes wrong!
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Sam Clift - The Boron Rage</title><description>When code goes wrong!
 
-</description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Tue, 04 Nov 2014 22:53:31 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Bath Hack 2.1</title><description>&lt;p&gt;I entered a hackathon called &lt;a href="http://www.bathhacked.org/"&gt;Bath Hack&lt;/a&gt;.&lt;/p&gt;
+</description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Tue, 04 Nov 2014 23:00:13 GMT</lastBuildDate><atom:link href="http://localhost:2368/author/sam/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Bath Hack 2.1</title><description>&lt;p&gt;I entered a hackathon called &lt;a href="http://www.bathhacked.org/"&gt;Bath Hack&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The aim of this hackathon was to hack around Bath’s past, present and future. Using all of the open data provided.&lt;/p&gt;
 
