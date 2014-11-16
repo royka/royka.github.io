@@ -1,9 +1,0 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Getting Started - The Boron Rage</title><description>When code goes wrong!</description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Sun, 16 Nov 2014 16:48:20 GMT</lastBuildDate><atom:link href="http://localhost:2368/tag/getting-started/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Welcome To My Blog</title><description>&lt;h3 id="aboutme"&gt;About Me&lt;/h3&gt;
-
-&lt;p&gt;I have been doing a lot of interesting things recently and I would like to share them with anyone who is interested&lt;/p&gt;
-
-&lt;p&gt;I am a Software developer currently working in Bath for a company called Cloudfind. I went to the University of the West Of England studying computer science.&lt;/p&gt;
-
-&lt;p&gt;I do other things as well as code though. I am a keen runner having ran the London Marathon with my best friend&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2014/11/marathon-finish-line-1.jpg" alt="Marathon Photo"&gt;&lt;/p&gt;</description><link>http://localhost:2368/2014/11/16/welcome-to-ghost/</link><guid isPermaLink="false">b87bc657-08f3-4efa-8528-b14ee57740e8</guid><category>Getting Started</category><dc:creator>Sam Clift</dc:creator><pubDate>Sun, 16 Nov 2014 16:30:57 GMT</pubDate></item></channel></rss>
