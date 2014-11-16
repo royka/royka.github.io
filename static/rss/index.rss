@@ -1,0 +1,20 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>The Boron Rage</title><description>When code goes wrong!</description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Sun, 16 Nov 2014 16:45:12 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Bath Hack 2.1</title><description>&lt;p&gt;I entered a hackathon called &lt;a href="http://www.bathhacked.org/"&gt;Bath Hack&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The aim of this hackathon was to hack around Bath’s past, present and future. Using all of the open data provided.&lt;/p&gt;
+
+&lt;p&gt;Our idea was to create a tool that would allow citzens to easily examine council expenses.&lt;/p&gt;
+
+&lt;p&gt;You can see what we shipped here &lt;br&gt;
+&lt;a href="http://expose.112percent.com/"&gt;http://expose.112percent.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A great write up &lt;a href="http://www.112percent.com/dev/bath-hacked-2-1-team-expose/"&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;and the source code on my &lt;a href="https://github.com/reactor10/hacked2.1"&gt;github&lt;/a&gt;&lt;/p&gt;</description><link>http://localhost:2368/2014/11/16/bath-hack-2-1/</link><guid isPermaLink="false">b37c4c78-7d21-4e1b-93f8-1c2fa37c4ebc</guid><dc:creator>Sam Clift</dc:creator><pubDate>Sun, 16 Nov 2014 16:40:09 GMT</pubDate></item><item><title>Welcome To My Blog</title><description>&lt;h3 id="aboutme"&gt;About Me&lt;/h3&gt;
+
+&lt;p&gt;I have been doing a lot of interesting things recently and I would like to share them with anyone who is interested&lt;/p&gt;
+
+&lt;p&gt;I am a Software developer currently working in Bath for a company called Cloudfind. I went to the University of the West Of England studying computer science.&lt;/p&gt;
+
+&lt;p&gt;I do other things as well as code though. I am a keen runner having ran the London Marathon with my best friend&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2014/11/marathon-finish-line-1.jpg" alt="Marathon Photo"&gt;&lt;/p&gt;</description><link>http://localhost:2368/2014/11/16/welcome-to-ghost/</link><guid isPermaLink="false">b87bc657-08f3-4efa-8528-b14ee57740e8</guid><category>Getting Started</category><dc:creator>Sam Clift</dc:creator><pubDate>Sun, 16 Nov 2014 16:30:57 GMT</pubDate></item></channel></rss>
