@@ -1,4 +1,50 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Sam Clift - The Boron Rage</title><description>When code goes wrong!</description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Sun, 16 Nov 2014 17:21:20 GMT</lastBuildDate><atom:link href="http://localhost:2368/author/sam/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Manga Scraper</title><description>&lt;p&gt;I'm quite a fan of japanese manga, you can read them online for free but sometimes its best to have a local copy on your ipad or laptop.&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Sam Clift - The Boron Rage</title><description>When code goes wrong!</description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Tue, 16 Dec 2014 20:52:33 GMT</lastBuildDate><atom:link href="http://localhost:2368/author/sam/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>iPython Notebook, Django and Vagrant</title><description>&lt;p&gt;&lt;a href="http://ipython.org/"&gt;iPython&lt;/a&gt; is a great tool for developing and debugging applications in python. I use it heavily at work for quickly prototyping ideas but also as a way to interact with models in a django app.&lt;/p&gt;
+
+&lt;p&gt;I was tasked with generating some statistics about our app at &lt;a href="http://cloudfindhq.com/"&gt;work&lt;/a&gt;. However the next day I was asked to turn these commands into a Django managment command that could be run again on demand as well as share the commands I used to generate the analysis. Great!&lt;/p&gt;
+
+&lt;p&gt;But there was a problem, what commands did I run? I hadn't saved anything from when I ran the analysis.&lt;/p&gt;
+
+&lt;h4 id="ipythonnotebook"&gt;iPython Notebook&lt;/h4&gt;
+
+&lt;p&gt;I have used iPython Notebook before, using it at &lt;a href="http://www.pyconuk.org/"&gt;PyconUK&lt;/a&gt; to help predicate survivors of the titanic. It was the perfect way to record all of my analysis and commands. But I ran into a few problems getting it setup and intergrated into my workflow.&lt;/p&gt;
+
+&lt;p&gt;I use &lt;a href="https://www.vagrantup.com/"&gt;vagrant&lt;/a&gt; to manage the development VM. Some tweaking was needed to get iPython Notebook working correctly.&lt;/p&gt;
+
+&lt;h6 id="installandupgradedjango_extensions"&gt;Install and upgrade django_extensions&lt;/h6&gt;
+
+&lt;pre&gt;&lt;code&gt;pip install django_extensions --upgrade
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h6 id="installallofthedependenciesforipythonnotebook"&gt;Install all of the dependencies for iPython Notebook.&lt;/h6&gt;
+
+&lt;pre&gt;&lt;code&gt; pip install jinja2
+ pip install pyzmq 
+ pip install Tornado 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h6 id="installipythonnotebook"&gt;Install iPython Notebook&lt;/h6&gt;
+
+&lt;pre&gt;&lt;code&gt; pip install "ipython[notebook]"
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h6 id="addtheselinestoyoursettingspy"&gt;Add these lines to your settings.py&lt;/h6&gt;
+
+&lt;pre&gt;&lt;code&gt;IPYTHON_ARGUMENTS = [      'django_extensions.management.notebook_extension',  
+'--ext',  
+'myproject.notebook_extension',  
+'--ip',  
+'*',]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h6 id="enableportforwardinginvagrantfile"&gt;Enable Port Forwarding in VagrantFile&lt;/h6&gt;
+
+&lt;pre&gt;&lt;code&gt;config.vm.network "forwarded_port", guest: 8888, host: 8888
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;That is it, you can now can to &lt;a href="http://localhost:8888/"&gt;http://localhost:8888/&lt;/a&gt; &lt;br&gt;
+and use iPython Notebook with your Django App on your Vagrant Machine&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2014/12/Screen-Shot-2014-12-16-at-20-39-50.png" alt="Screenshot iPython Notebook"&gt;&lt;/p&gt;</description><link>http://localhost:2368/2014/12/16/ipython-notebook-django-and-vagrant/</link><guid isPermaLink="false">c4e2687f-c947-46b3-8ab4-d5f90c249369</guid><dc:creator>Sam Clift</dc:creator><pubDate>Tue, 16 Dec 2014 20:33:38 GMT</pubDate></item><item><title>Manga Scraper</title><description>&lt;p&gt;I'm quite a fan of japanese manga, you can read them online for free but sometimes its best to have a local copy on your ipad or laptop.&lt;/p&gt;
 
 &lt;p&gt;Rather than download each issue individually I've create a tool that will scrap all the issues for a manga from manga panda. You can find the source code at my &lt;a href="https://github.com/royka/manga_scraper"&gt;github&lt;/a&gt;&lt;/p&gt;
 
