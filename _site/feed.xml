@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>When Code Goes Wrong</title>
+    <description>I have been doing a lot of interesting things recently and I would like to share them with anyone who is interested!
+</description>
+    <link>http://royka.github.io/</link>
+    <atom:link href="http://royka.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 28 Mar 2016 17:08:07 +0100</pubDate>
+    <lastBuildDate>Mon, 28 Mar 2016 17:08:07 +0100</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Bath Hack The Environment</title>
+        <description>&lt;p&gt;I entered BathHacked again! This time we where inspired by a &lt;a href=&quot;http://www.bathhacked.org/bath-hacked-loves-the-environment/ideas-night-local-food-strategy-and-environmental-protection/&quot;&gt;presentation&lt;/a&gt; given by a local Environmental Protection officer.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-built&quot;&gt;What we Built&lt;/h2&gt;
+&lt;p&gt;We built a web app that allowed the public to examine Environmental Protection service requests. Allowing people to find out trends and see what problems are affecting their area. We allowed people to filter by time as well as type’s of requests. Importantly we represented the state of the search in the URL allowing people to share their findings.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-we-built-it&quot;&gt;How we Built it&lt;/h2&gt;
+&lt;p&gt;We decided to build a very lean app, exporting the service request data to &lt;a href=&quot;https://cartodb.com/&quot;&gt;CartoDB&lt;/a&gt; (sponsor of the event).&lt;/p&gt;
+
+&lt;p&gt;The static app was build with &lt;a href=&quot;angular.io&quot;&gt;Angular 2&lt;/a&gt;, &lt;a href=&quot;typescriptlang.org&quot;&gt;TypeScript&lt;/a&gt; and &lt;a href=&quot;http://gulpjs.com/&quot;&gt;Gulp&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Having a static app meant we could host it on &lt;a href=&quot;figroll.io&quot;&gt;Figroll&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;final-result&quot;&gt;Final Result&lt;/h2&gt;
+&lt;p&gt;We managed to ship the &lt;a href=&quot;hacked.figroll.it&quot;&gt;web app&lt;/a&gt; and win several tickets to a Bath Rugby Match in IPL’s box&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Mar 2016 16:37:50 +0100</pubDate>
+        <link>http://royka.github.io/bathhack/hackathon/2016/03/28/bath-hacked-the-enviroment.html</link>
+        <guid isPermaLink="true">http://royka.github.io/bathhack/hackathon/2016/03/28/bath-hacked-the-enviroment.html</guid>
+        
+        
+        <category>bathhack</category>
+        
+        <category>hackathon</category>
+        
+      </item>
+    
+      <item>
+        <title>Manga Scraper</title>
+        <description>&lt;p&gt;I’m quite a fan of Japanese manga, you can read them online for free but sometimes its best to have a local copy on your ipad or laptop. Rather than download each issue individually I’ve create a command line tool that will scrap all the issues for a manga from &lt;a href=&quot;mangapanda.com&quot;&gt;manga panda&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;about-the-project&quot;&gt;About the Project&lt;/h2&gt;
+&lt;p&gt;The project is written in &lt;a href=&quot;python.org&quot;&gt;python&lt;/a&gt; and uses &lt;a href=&quot;http://www.crummy.com/software/BeautifulSoup/&quot;&gt;beautifulsoup&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;source-code&quot;&gt;Source Code&lt;/h2&gt;
+&lt;p&gt;The source code and install instructions can be found in the &lt;a href=&quot;https://github.com/royka/manga_scraper&quot;&gt;github project&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Mar 2016 16:37:50 +0100</pubDate>
+        <link>http://royka.github.io/manga/2016/03/28/manga-scraper.html</link>
+        <guid isPermaLink="true">http://royka.github.io/manga/2016/03/28/manga-scraper.html</guid>
+        
+        
+        <category>manga</category>
+        
+      </item>
+    
+      <item>
+        <title>Bath Hacked and Team Expose</title>
+        <description>&lt;p&gt;I entered a hackathon called Bath Hack, the aim of this hackathon was to hack around Bath’s past, present and future.
+Using all of the open data provided we created a tool that would allow the public to easily examine council expenses.&lt;/p&gt;
+
+&lt;p&gt;You can see what we shipped &lt;a href=&quot;http://expose.112percent.com&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A great write up &lt;a href=&quot;http://www.112percent.com/dev/bath-hacked-2-1-team-expose/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;and the source code on my &lt;a href=&quot;https://github.com/reactor10/hacked2.1&quot;&gt;github&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Mar 2016 16:37:50 +0100</pubDate>
+        <link>http://royka.github.io/bathhack/hackathon/2016/03/28/bath-hacked-team-expose.html</link>
+        <guid isPermaLink="true">http://royka.github.io/bathhack/hackathon/2016/03/28/bath-hacked-team-expose.html</guid>
+        
+        
+        <category>bathhack</category>
+        
+        <category>hackathon</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to my Jekyll Blog!</title>
+        <description>&lt;p&gt;I have been doing a lot of interesting things recently and I would like to share them with anyone who is interested!
+Expect to see code, hackathons, running and much more.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Mar 2016 16:24:50 +0100</pubDate>
+        <link>http://royka.github.io/jekyll/update/2016/03/28/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://royka.github.io/jekyll/update/2016/03/28/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
