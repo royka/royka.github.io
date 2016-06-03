@@ -9,6 +9,19 @@ permalink: /cv/
 ### Front End Developer, Wazoku
 June 2016 - Present
 
+Working as a front end developer in an agile environment. Focusing on UI development of new features as well as improving old ones.
+
+#### Accomplishments
+Improved the static build and development process
+Improving best practices of developing Angular Apps
+Lead development of analytics dashboard
+
+#### Technologies
+* PostgreSQL + Django
+* JQuery, JQuery UI,  Angular, Jasmine, Karma, Grunt, NPM, Node, Jade
+* Bootstrap, Less, CSS3, HTML5
+
+
 ### Lead Developer, Cloudfind
 June  2013 - June 2016
 
