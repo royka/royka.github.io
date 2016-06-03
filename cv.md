@@ -61,7 +61,7 @@ Helped to build an intelligent Google Ad exchange bidder. Worked primarily on th
 # EDUCATION
 
 ## University of the West of England
-* BSc Computer Science — 2008-2012 (Included a placement as a Data Analyst with the Ministry of Defence lasting 18 months) 
+* BSc Computer Science — 2008-2012 (Included a placement as a Data Analyst with the Ministry of Defence lasting 18 months)
 
 ## Somervale Secondary School
 * A-levels - History, Physics
@@ -71,7 +71,7 @@ Helped to build an intelligent Google Ad exchange bidder. Worked primarily on th
 
 # Hobbies
 * Keen runner (London Marathon, as well as several half Marathon’s)
-* Hackathons, entered bath hack and won £500! http://www.bathhacked.org/projects/team-expose-hacked21/
+* Hackathons, [entered bath hack and won the “Better Bath” award!](http://www.bathhacked.org/projects/team-expose-hacked21/)
 * Open Source Contributions, helping to improve the hitchhiker's guide to python docs as well as going to several open source conferences including AngularJS
 
 Full clean UK driving license
