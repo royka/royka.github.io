@@ -14,22 +14,26 @@
           <h1 class="f2">Exploring Dependencies of Front End Frameworks</h1>
 
           <p class="measure lh-copy">
-            With the fast approaching release of Angular 2 and with me working on the vast amount of data
+            With the fast approaching release of Angular 2 and with the vast amount of data
             about open source projects that <a href="https://libraries.io">libraries.io</a> has collected. I thought it would be interesting to
-            examine the dependencies of popular open source front end frameworks.
+            examine the dependencies of the most popular open source front end frameworks.
           </p>
           <p class="measure lh-copy">
-            Below is a bar chart showing the counts of dependencies of angular, angular2 and react.
+            Below is a bar chart showing the number of dependencies of angular, angular2 and react.
           </p>
 
           <canvas id="numOfDepsChart" width="400" height="400"></canvas>
 
           <p class="measure lh-copy">
-            As you can see angular 2 has far more dependencies that the other 2.
+            As you can see angular 2 has far more dependencies that the other 2, but why is that?
+            Turns out this is because angular 2 use npm shrinkwrap to
+            lock down there dependencies. Read more about shinkwrap <a href="https://docs.npmjs.com/cli/shrinkwrap">here</a>
           </p>
         </article>
 
         <script>
+        Chart.defaults.global.legend.display = false;
+        Chart.defaults.global.tooltips.enabled = false;
         var myChart = new Chart(document.getElementById("numOfDepsChart"), {
             type: 'bar',
             label: 'Number of Dependencies',
