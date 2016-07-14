@@ -4,7 +4,21 @@ title: Projects
 permalink: /projects/
 ---
 
-Open Source Projects I've worked on
+# Personal Projects
+
+### Stack Watcher
+Coming Soon...
+
+
+# Open Source Projects I've worked on
+
+### Help Wanted
+Help developers find github issues that are tagged with `help-wanted` in projects
+that are highly depended on (powered by [Libraries](https://github.com/librariesio/libraries.io))
+
+* [Help Wanted Twitter Bot](https://github.com/royka/help_wanted)
+* [Help Wanted Web Component](https://github.com/royka/help-wanted-gh-issues)
+
 
 ### Libraries.io
 
