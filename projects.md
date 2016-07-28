@@ -7,7 +7,10 @@ permalink: /projects/
 # Personal Projects
 
 ### Stack Watcher
-Coming Soon...
+Monitor the individual services that make up your app
+
+* [Github](https://github.com/royka/stack-watcher)
+* [Live](https://rocky-earth-51620.herokuapp.com)
 
 
 # Open Source Projects I've worked on
