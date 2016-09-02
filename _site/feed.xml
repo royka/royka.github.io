@@ -28,7 +28,7 @@
   &lt;link rel=&quot;canonical&quot; href=&quot;http://royka.github.io/2016/05/03/front-end-deps.html&quot;&gt;
   &lt;link rel=&quot;alternate&quot; type=&quot;application/rss+xml&quot; title=&quot;When Code Goes Wrong&quot; href=&quot;http://royka.github.io/feed.xml&quot;&gt;
 
-  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://npmcdn.com/tachyons@4.0.0-beta.28/css/tachyons.min.css&quot;&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://unpkg.com/tachyons@4.0.0-beta.28/css/tachyons.min.css&quot;&gt;
   &lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.1.4/Chart.bundle.min.js&quot;&gt;&lt;/script&gt;
 
 &lt;/head&gt;
