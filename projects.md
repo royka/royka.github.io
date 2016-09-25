@@ -6,6 +6,10 @@ permalink: /projects/
 
 # Personal Projects
 
+### [Beau and Badger Website](http://www.beauandbadger.co.uk/)
+Designed and implemented
+
+
 ### Stack Watcher
 Monitor the individual services that make up your app
 
