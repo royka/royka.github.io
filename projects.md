@@ -6,6 +6,9 @@ permalink: /projects/
 
 # Personal Projects
 
+### [Angular Sortable](https://github.com/SortableJS/angular-legacy-sortablejs)
+
+
 ### [Beau and Badger Website](http://www.beauandbadger.co.uk/)
 Designed and implemented
 
