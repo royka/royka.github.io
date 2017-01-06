@@ -18,7 +18,7 @@ Working as lead front end developer in an agile team. Focusing on UI development
 
 ### Technologies
 * PostgreSQL + Django
-* JQuery, JQuery UI,  Angular, D3, Jasmine, Karma, Grunt, NPM, Node, Jade
+* JQuery,  Angular, D3, Jasmine, Karma, Grunt, NPM, Node, Jade, es6, Flowtype, Typescript
 * Bootstrap, Less, CSS3, HTML5
 
 
