@@ -10,17 +10,14 @@ permalink: /projects/
 
 
 ### [Beau and Badger Website](http://www.beauandbadger.co.uk/)
-Designed and implemented
-
-
-### Stack Watcher
-Monitor the individual services that make up your app
-
-* [Github](https://github.com/royka/stack-watcher)
-* [Live](https://rocky-earth-51620.herokuapp.com)
-
+  - Designed and implemented
 
 # Open Source Projects I've worked on
+
+### Octobox
+
+* [Octobox](https://octobox.io)
+
 
 ### Help Wanted
 Help developers find github issues that are tagged with `help-wanted` in projects

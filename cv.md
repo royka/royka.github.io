@@ -9,7 +9,7 @@ permalink: /cv/
 ## Front End Developer, Wazoku
 June 2016 - Present
 
-Working as a front end developer in an agile team. Focusing on UI development of new features as well as improving old ones.
+Working as lead front end developer in an agile team. Focusing on UI development of new features as well as improving old ones.
 
 ### Accomplishments
 * Improved the static build and development process;
