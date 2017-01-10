@@ -6,68 +6,9 @@
 </description>
     <link>http://royka.github.io/</link>
     <atom:link href="http://royka.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Jan 2017 15:30:57 +0000</pubDate>
-    <lastBuildDate>Fri, 06 Jan 2017 15:30:57 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Jan 2017 08:28:19 +0000</pubDate>
+    <lastBuildDate>Tue, 10 Jan 2017 08:28:19 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
-    
-      <item>
-        <title>Testing a Modern Angular App</title>
-        <description>&lt;p&gt;The standardisation of es2015 and the new concepts that have been introduced into javascript have transformed what is considered best practice in archtecting a Angular app. Some concepts and ideas have stayed the same whereas new ones are possible&lt;/p&gt;
-
-&lt;h2 id=&quot;writing-components-with-es6-classes&quot;&gt;Writing Components with es6 Classes&lt;/h2&gt;
-&lt;p&gt;One of the problems with writing code is writing it in such a way that it is easily testable. Most if not all functionality can be covered in end to end to end tests but these types of test require a lot of development effort and probably they would take a long time to run, perhaps they can’t even be ran on a developers machine.&lt;/p&gt;
-
-&lt;p&gt;With the introduction of classes in es2015 and the new component method it is now possible to write components with classes i.e.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;class SomeController {
-    constructor() {
-        this.USER = {};
-    }
-
-    $onInit() {
-    }
-
-    $onChanges(changesObj) {
-    }
-}
-
-module.exports = SomeController;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;You can then export this class and use it in a &lt;code class=&quot;highlighter-rouge&quot;&gt;component&lt;/code&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;const SomeController =  require(&#39;./SomeController&#39;);
-
-angular
-.module(&#39;app&#39;)
-.component(&#39;stageEvaluatorsOptions&#39;, {
-    template: &#39;&#39;,
-    bindings: {},
-    controller: SomeController,
-});
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;why-write-components-in-this-style&quot;&gt;Why Write Components in this Style&lt;/h3&gt;
-&lt;p&gt;Writing your component’s controllers has several benefits. Your just writing standard es6 classes this means you logic is decoupled from Angular. You can write tests for this Class Controller with just Jasmine (or any Javascript test runner). The main benefit of removing the requirement of Karma for your apps unit tests is that they run extremely quickly.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 09 Oct 2016 19:37:50 +0100</pubDate>
-        <link>http://royka.github.io/frontend/javascript/testing/angular/es2015/2016/10/09/fe-unit-testing.html</link>
-        <guid isPermaLink="true">http://royka.github.io/frontend/javascript/testing/angular/es2015/2016/10/09/fe-unit-testing.html</guid>
-        
-        
-        <category>frontend</category>
-        
-        <category>javascript</category>
-        
-        <category>testing</category>
-        
-        <category>angular</category>
-        
-        <category>es2015</category>
-        
-      </item>
     
       <item>
         <title>Front End Deps</title>
