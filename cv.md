@@ -7,23 +7,23 @@ permalink: /cv/
 # EXPERIENCE
 
 ## Front End Developer, Wazoku
-June 2016 - Present
+April 2016 - Present
 
 Working as lead front end developer in an agile team. Focusing on UI development of new features as well as improving old ones.
 
 ### Accomplishments
 * Improved the static build and development process;
-* Improving best practices of developing Angular Apps;
+* Introducing best practices for developing Angular Apps;
 * Lead development of analytics dashboard consuming and efficiently processing from a RESTful API;
 
 ### Technologies
-* PostgreSQL + Django
-* JQuery,  Angular, D3, Jasmine, Karma, Grunt, NPM, Node, Jade, es6, Flowtype, Typescript
+* PostgreSQL + Django + DRF
+* JQuery, Angular, D3, Jasmine, Karma, Grunt, NPM, Node, Jade, es2015, Typescript
 * Bootstrap, Less, CSS3, HTML5
 
 
 ## Lead Developer, Cloudfind
-June  2013 - June 2016
+June  2013 - April 2016
 
 Worked as a full stack developer for a new lean startup in an agile environment. Touching on every aspect of the core product including front end, tagging algorithm, cloudstore integrations, infrastructure and deployment. Also involved in the design, planning and prototyping of new products and features to fit new markets based on feedback from customers and user research.
 
@@ -72,6 +72,6 @@ Helped to build an intelligent Google Ad exchange bidder. Worked primarily on th
 # Hobbies
 * Keen runner (London Marathon, as well as several half Marathon’s)
 * Hackathons, [entered bath hack and won the “Better Bath” award!](http://www.bathhacked.org/projects/team-expose-hacked21/)
-* Open Source Contributions, helping to improve the hitchhiker's guide to python docs as well as going to several open source conferences including AngularJS
+* Open Source Contributions
 
 Full clean UK driving license
