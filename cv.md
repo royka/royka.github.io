@@ -6,8 +6,28 @@ permalink: /cv/
 
 # EXPERIENCE
 
+## Frontend Engineer, Adarga
+October 2017 - present
+
+Working as a frontend engineer in a small agile team, helping to deliver features as well as reacting to client requests.
+
+Focused primarily on UI development of data analytics software including complex visualizations and maps, fully leveraging react, D3 and typescript.
+
+
+### Accomplishments
+* Streamlined the release process with Docker, Kubernetes and Git
+* Increasing the quality and coverage of the UI test suite
+* Introduced e2e testing
+
+
+### Technologies
+* React, Typescript, Node, D3, GraphQL
+* PostCSS, CSS Grid
+* Docker, Kubernetes, Jenkins
+
+
 ## Front End Developer, Wazoku
-April 2016 - Present
+April 2016 - October 2017
 
 Working as lead front end developer in an agile team. Focusing on UI development of new features as well as improving old ones.
 
