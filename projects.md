@@ -11,7 +11,7 @@ Simple, scalable state management
   * [Mobx](https://github.com/mobxjs/mobx)
 
 ### Yarn
-   Fast, reliable, and secure dependency management
+Fast, reliable, and secure dependency management
     * [Yarn](https://github.com/yarnpkg/yarn)
 
 ### Git Wipe
