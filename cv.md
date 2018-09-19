@@ -6,10 +6,10 @@ permalink: /cv/
 
 # EXPERIENCE
 
-## Frontend Engineer, Adarga
+## Fullstack Engineer, Adarga
 October 2017 - present
 
-Working as a frontend engineer in a small agile team, helping to deliver features as well as reacting to client requests.
+Working as a fullstack engineer in a small agile team, helping to deliver features as well as reacting to client requests.
 
 Focused primarily on UI development of data analytics software including complex visualizations and maps, fully leveraging react, D3 and typescript.
 
