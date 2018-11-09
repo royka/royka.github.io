@@ -6,6 +6,10 @@ permalink: /projects/
 
 # Open Source Projects I've worked on
 
+### Grumpy bot
+A react native app that uses compromise and sentiment to turn a postive sentance in a negative one
+  * [Grumpy bot](https://github.com/samjacobclift/grumpyBot)
+
 ### Mobx
 Simple, scalable state management
   * [Mobx](https://github.com/mobxjs/mobx)
