@@ -9,20 +9,18 @@ permalink: /cv/
 ## Fullstack Engineer, Adarga
 October 2017 - present
 
-Working as a fullstack engineer in a small agile team, designing and delivering features. Focused primarily on UI development of data analytics software including complex visualizations and maps, fully leveraging react, D3 and typescript.
-
+Working as a fullstack engineer in a small agile team, designing and delivering features. Focused primarily on development of data analytics software including complex visualizations and maps, fully leveraging react, D3 and typescript.
 
 ### Accomplishments
 * Streamlined the release process with Docker, Kubernetes and Git
 * Increasing the quality and coverage of the UI test suite
 * Delivered complex responsive data visualizations
-
+* Delivered new document ingestion capabilities
 
 ### Technologies
-* React, Typescript, Mobx, D3
-* PostCSS, CSS Grid
+* React, Typescript, Mobx, D3, CSS3
 * Node, Elasticsearch, GraphQl
-* Docker, Kubernetes, Jenkins
+* Docker, Kubernetes, GCP
 
 
 ## Front End Developer, Wazoku
