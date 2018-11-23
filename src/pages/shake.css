@@ -1,3 +1,8 @@
+.centered {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 .face {
     animation: shake 0.82s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
@@ -5,6 +10,7 @@
     backface-visibility: hidden;
     perspective: 1000px;
     animation-iteration-count:infinite;
+    width: 250px;
   }
 
   @keyframes shake {
