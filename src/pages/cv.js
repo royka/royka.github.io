@@ -9,23 +9,26 @@ const WorkSection = (props) => (
         <h4>{props.date}</h4>
         <p>{props.bio}</p>
         <ul>
-            {props.technologies.forEach(element => {
+            {props.technologies.map(element => {
                 return <li>{element}</li>
             })}
         </ul>
     </div>
 )
 
-const QualitficationSection = (props) => (
-    <div>
-        <h3>{props.title}</h3>
-        <ul>
-            {props.award.forEach(element => {
-                return <li>{element}</li>
-            })}
-        </ul>
-    </div>
-)
+const QualitficationSection = (props) => {
+    console.log(props)
+    return (
+        <div>
+            <h3>{props.title}</h3>
+            <ul>
+                {props.technologies.map(element => {
+                    return <li>{element}</li>
+                })}
+            </ul>
+        </div>
+    )
+}
 
 const CVPage = () => (
   <Layout>
@@ -79,14 +82,16 @@ const CVPage = () => (
 
         <QualitficationSection
             title='University of the West of England'
-            award={[
+            technologies={[
                 'BSc Computer Science — 2008-2012 (Included a placement as a Data Analyst with the Ministry of Defence lasting 18 months)'
             ]}
+
         />
         <QualitficationSection
             title='Somervale Secondary School'
-            award={[
-                'A-levels - History, Physics',
+            technologies={[
+                'A-levels - History',
+                'Physics',
                 'BTEC - Engineering',
                 'GCSE - 12 GCSE’s English, Maths and Triple Science all A-C grade'
             ]}
