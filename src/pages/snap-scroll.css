@@ -1,0 +1,31 @@
+.container {
+    max-height: 500px;
+    width: 80%;
+    overflow-y: scroll;
+    scroll-snap-type: y mandatory;
+}
+.scrollContainer {
+    /* display: inline-flex; */
+}
+
+.yellowBlock {
+    scroll-snap-align: start;
+    height: 250px;
+    width: 100%;
+    background-color: yellow;
+}
+
+.greenBlock {
+    scroll-snap-align: start;
+    height: 250px;
+    width: 100%;
+    background-color: green;
+}
+
+
+.redBlock {
+    scroll-snap-align: start;
+    height: 250px;
+    width: 100%;
+    background-color: red;
+}

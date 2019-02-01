@@ -9,6 +9,7 @@ const IndexPage = () => (
         <div className='coolCode'>
             <h3>Cool Code</h3>
             <Link to="/shake/">Shake Animation</Link>
+            <Link to="/snap-scroll/">CSS Snap Scroll</Link>
         </div>
         <div className='aboutMe'>
             <h3>About Me</h3>
