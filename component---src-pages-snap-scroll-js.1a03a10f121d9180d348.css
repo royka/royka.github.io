@@ -1,0 +1,1 @@
+.container{max-height:500px;width:80%;overflow-y:scroll;-webkit-scroll-snap-type:y mandatory;-ms-scroll-snap-type:y mandatory;scroll-snap-type:y mandatory}.yellowBlock{background-color:#ff0}.greenBlock,.yellowBlock{scroll-snap-align:start;height:250px;width:100%}.greenBlock{background-color:green}.redBlock{scroll-snap-align:start;height:250px;width:100%;background-color:red}
